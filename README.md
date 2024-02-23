@@ -1,7 +1,9 @@
 # Crimson Tactics - Programming Assignment
 <video width="640" height="480" controls>
-  <source src="/gameplay.mp4" type="video/mp4">
+  <source src="gameplay.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
+
 
 
 ## Game Brief
